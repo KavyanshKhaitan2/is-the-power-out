@@ -17,3 +17,7 @@ In my town, we frequently lose power, so I can use this to know exactly when, an
 
 - [Download main case part](https://github.com/KavyanshKhaitan2/is-the-power-out/blob/main/3dp/Case%20-%20Part%201.stl) (PLEASE print with supports!)
 - [Download case top](https://github.com/KavyanshKhaitan2/is-the-power-out/blob/main/3dp/Case%20-%20Part%202.stl)
+
+## BOM
+- [ [View BOM on Google Sheets](https://docs.google.com/spreadsheets/d/1HpNvNYVS15Ou1rxpnCsINuQ82Mtfe6AI-b8NtTX2ELQ/edit?usp=sharing) ]
+- [ [View BOM in GitHub](https://github.com/KavyanshKhaitan2/is-the-power-out/blob/main/bom.csv) ]
