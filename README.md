@@ -21,3 +21,9 @@ In my town, we frequently lose power, so I can use this to know exactly when, an
 ## BOM
 - [ [View BOM on Google Sheets](https://docs.google.com/spreadsheets/d/1HpNvNYVS15Ou1rxpnCsINuQ82Mtfe6AI-b8NtTX2ELQ/edit?usp=sharing) ]
 - [ [View BOM in GitHub](https://github.com/KavyanshKhaitan2/is-the-power-out/blob/main/bom.csv) ]
+
+## Code
+- Flash the Pi Pico with MicroPython
+- Copy the `main.py` file in this repo over to the Pico
+- Change the SSID and Password on the `main.py` file
+- Change the webhook URL in the `main.py` file
