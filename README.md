@@ -15,3 +15,5 @@ In my town, we frequently lose power, so I can use this to know exactly when, an
 
 [ [View in OnShape](https://cad.onshape.com/documents/09c2e1066698d982f6b4db91/w/a2dfad63af4ed4408f592306/e/a1a8967d97607ce5d6740ca7?renderMode=0&uiState=6a5b6723fb9e1354944692a0) ]
 
+- [Download main case part](https://github.com/KavyanshKhaitan2/is-the-power-out/blob/main/3dp/Case%20-%20Part%201.stl) (PLEASE print with supports!)
+- [Download case top](https://github.com/KavyanshKhaitan2/is-the-power-out/blob/main/3dp/Case%20-%20Part%202.stl)
